@@ -1,0 +1,11 @@
+.methods {
+  transform: translateY(-25%);
+  margin-left: 2.5em;
+}
+.methods * span  {
+  margin-left: 10px;
+}
+
+#home-page h1 {
+  display: inline-block;
+}

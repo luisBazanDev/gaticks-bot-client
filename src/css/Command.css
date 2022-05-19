@@ -1,0 +1,22 @@
+.aliases_group * {
+  margin-bottom: 5px;
+}
+
+.aliases_group button {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.responses_group * {
+  margin-bottom: 5px;
+}
+
+.responses_group button {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.actions_group * {
+  width: 100%;
+  margin-bottom: 10px;
+}
